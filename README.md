@@ -1,2 +1,1 @@
-APRENDE A UTILIZAR GITHUB, VISUAL STUDIO CODE
-Pasos para clonar tu archivo
+Primer Cambio
